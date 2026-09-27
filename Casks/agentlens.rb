@@ -1,6 +1,6 @@
 cask "agentlens" do
-  version "0.1.3"
-  sha256 "58050aeb5623bbedaa49458d5f39ef231d0c6f57ba813b721e91af113c944259"
+  version "0.1.4"
+  sha256 "41c63e7fb1c4dfad80a2c9aa697fab241c3cfd775ecb237ebea3e5833db5053f"
 
   url "https://github.com/mailbagrahul/AgentLens-releases/releases/download/v#{version}/AgentLens-#{version}.zip"
   name "AgentLens"
